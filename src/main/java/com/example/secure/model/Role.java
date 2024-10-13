@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.Setter;
 import org.springframework.security.core.GrantedAuthority;
 
+//add lombok annotations
 @Setter
 @AllArgsConstructor
 @Entity
